@@ -15,7 +15,8 @@ and follow the steps
 - 10 . open htdocs folder and extract the "diaru" folder in it 
 - 11 . Change the paths from the respective files like register.php , welcome.php and all that require paths in it 
 - 12 . wallah you are set 
-## for demo you can visit [yolodiary.in] (http://www.yolodiary.in/) 
+## for demo you can visit [yolodiary.in](http://www.yolodiary.in/) 
+
 ![alt text](1.PNG)
 ![alt text](2.PNG)
 ![alt text](3.PNG)
