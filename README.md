@@ -10,11 +10,12 @@ and follow the steps
 - 6 . Click on import option in phpmyadmin
 - 7 . open "diary_2020-04-12_22-22-00.sql" where you downloaded it from 
 # - 8 . WALLAH!!!! database is created
+## NOW it's time for files 
 - 9 . open xampp folder 
 - 10 . open htdocs folder and extract the "diaru" folder in it 
 - 11 . Change the paths from the respective files like register.php , welcome.php and all that require paths in it 
 - 12 . wallah you are set 
-## for demo you can visit [yolodiary.in] (yolodiary.in) 
+## for demo you can visit [yolodiary.in] (http://www.yolodiary.in/) 
 ![alt text](1.PNG)
 ![alt text](2.PNG)
 ![alt text](3.PNG)
