@@ -19,9 +19,10 @@ and follow the steps
 - 11 . Change the paths from the respective files like register.php , welcome.php and all that require paths in it 
 - 12 . wallah you are set 
 ## for demo you can visit [yolodiary.in](http://www.yolodiary.in/) 
+### HERE ARE SOME OF THE PICS 
 ![login page](1.png)
-![alt text](2.PNG)
-![alt text](3.PNG)
-![alt text](4.PNG)
-![alt text](5.PNG)
-![alt text](6.PNG)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
