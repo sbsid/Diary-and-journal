@@ -1,5 +1,12 @@
 # Diary-and-journal
 a diary in php and mysql in which you can post private as well as public 
+![alt text](2.PNG)
+![alt text](3.PNG)
+![alt text](4.PNG)
+![alt text](5.PNG)
+![alt text](6.PNG)
+
+
 ## install xampp
 and follow the steps
 - 1 . download this projects 
