@@ -1,10 +1,6 @@
 # Diary-and-journal
 a diary in php and mysql in which you can post private as well as public 
-![alt text](2.PNG)
-![alt text](3.PNG)
-![alt text](4.PNG)
-![alt text](5.PNG)
-![alt text](6.PNG)
+
 
 
 ## install xampp
@@ -23,4 +19,9 @@ and follow the steps
 - 11 . Change the paths from the respective files like register.php , welcome.php and all that require paths in it 
 - 12 . wallah you are set 
 ## for demo you can visit [yolodiary.in](http://www.yolodiary.in/) 
-![alt text](1.PNG)
+![login page](1.PNG)
+![alt text](2.PNG)
+![alt text](3.PNG)
+![alt text](4.PNG)
+![alt text](5.PNG)
+![alt text](6.PNG)
