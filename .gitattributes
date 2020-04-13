@@ -1,4 +1,0 @@
-*.css linguist-detectable=true
-*.php linguist-detectable=true
-
-*.mysql linguist-detectable=true
